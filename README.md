@@ -1,5 +1,5 @@
 # whisper
-at times of confliction, one require peace to meet the state of equilibirum for the possibility for regeneration to emerge in the chord of alchemy cooridnation
+at times of confliction, one requires peace to meet the state of equilibirum for the possibility for regeneration to emerge in the chord of alchemy cooridnation
 
 While aiming to bridge various tools sets in a cohesive package for information reproduceability, this project can be considered more of a no-code implementation of intelligence to come.
 
