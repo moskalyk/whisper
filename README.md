@@ -12,10 +12,10 @@ what begain as a small game as percolated into a matter of form by which cards a
 
 
 ## quantum circuit
-[circuit](./circuit_flow.png)
+![circuit](./circuit_flow.png)
 
 ## inventory guiding
-
+![inventory](./inventory.png)
 
 ## results
 TODO
