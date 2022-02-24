@@ -6,16 +6,16 @@ While aiming to bridge various tools sets in a cohesive package for information 
 whisper places community cohesion in the forefront, so as the quiet whispers of light may protect those practioners seeking continual wisdom in the infinite game we may play
 
 ## tarot quantum embedding
-what begain as a small game as percolated into a matter of form by which cards are distributed IRL to create default stepping stone for rotations to take form
+what begain as a small game as percolated into a matter of form by which cards are distributed IRL to create default stepping stone for memetic rotations to take form
 
 ## architecture
-
+![circuit](./circuit_flow.png)
 
 ## quantum circuit
-[circuit](./circuit_flow.png)
+|--X-OR-->
 
 ## inventory guiding
-
+![inventory](./inventory.gif)
 
 ## results
 TODO
